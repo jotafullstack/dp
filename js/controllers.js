@@ -3,7 +3,7 @@ angular.module('myNgApp', []).controller('pageController', function($scope) {
   $scope.aboutUsSectionDescription = "A DIGIPULSE é o seu parceiro para o ajudar a implementar sistemas de informação de suporte ao seu negócio.";
   $scope.aboutUsTitle = "Nós fornecemos serviços e ideias de excelente qualidade";
   $scope.aboutUsText1= "A DIGIPULSE nasceu com um foco particular: o de fornecer ferramentas informáticas orientadas para a melhoria dos Sistemas de Motivação de Colaboradores e Programas de Fidelização e Incentivos. O seu Futuro já começou. Depende de si fazer com que seja melhor que o seu Passado, porque você merece o melhor!";
-  $scope.aboutUsText2= "Como Software House queremos prestar serviços de excelente qualidade, usando a nossa capacidade de inovar e resiliência, permintindo que estejamos sempre em constante processo evolutivo tecnologia.";
+  $scope.aboutUsText2= "Como Software House queremos prestar serviços de excelente qualidade, usando a nossa capacidade de inovar e resiliência, permintindo que estejamos sempre em constante processo evolutivo na utilização da tecnologia.";
   $scope.aboutUsText3= " ";
 
   $scope.servicesSectionTitle = "Nossos Serviços";
