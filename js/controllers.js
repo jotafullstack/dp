@@ -7,17 +7,17 @@ angular.module('myNgApp', []).controller('pageController', function($scope) {
   $scope.aboutUsText3= " ";
 
   $scope.servicesSectionTitle = "Nossos Serviços";
-  $scope.servicesSectionDescription = "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium";
+  $scope.servicesSectionDescription = "";
   $scope.servicesTitle1 = "Soluções de E-commerce";
-  $scope.servicesDescription1 = "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident";
+  $scope.servicesDescription1 = "Criamos soluções de e-commerce para que possa vender os seus produtos de uma forma rápida e eficaz.";
   $scope.servicesTitle2 = "Soluções Mobile";
-  $scope.servicesDescription2 = "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident";
-  $scope.servicesTitle3 = "Programa de incentivos";
-  $scope.servicesDescription3 = "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident";
+  $scope.servicesDescription2 = "Criamos soluções mobile para que todos possam ter acesso á sua plataforma.";
+  $scope.servicesTitle3 = "Marketing digital";
+  $scope.servicesDescription3 = "Desenvolvemos o futuro digital da sua empresa, amplificando a sua presença online.";
   $scope.servicesTitle4 = "FERRAMENTAS INFORMÁTICAS PARA APOIO AO COACHING E À PNL";
-  $scope.servicesDescription4 = "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident";
+  $scope.servicesDescription4 = "Criamos soluções dedicadas ao ramo do coaching e pnl.";
   $scope.servicesTitle5 = "Desenho de soluções";
-  $scope.servicesDescription5 = "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident";
+  $scope.servicesDescription5 = "Desenhamos soluções para que possa usufruir da melhor tecnologia.";
   $scope.servicesTitle6 = "Administração de sistemas e networking";
-  $scope.servicesDescription6 = "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident";
+  $scope.servicesDescription6 = "Prestamos serviços de administração de sistemas e networking para que possa ter um sistema completamente robusto.";
 });
